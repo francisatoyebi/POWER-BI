@@ -1,6 +1,8 @@
 # POWER-BI
 
-A simple repository to store and showcase Power BI dashboards.|
+A simple repository to store and showcase Power BI dashboards.
+
+------------------------------------------------
 
 ## Published Reports
 **Below are links to reports/dashboards that have been published, please do well to drop your recommendations as issues with this repository:**
@@ -15,3 +17,4 @@ _None for now except client reports_
 - Global Covid-19 visualiser
 
 # _More Reports will be added in due time_
+
