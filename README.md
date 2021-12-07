@@ -26,11 +26,11 @@ You can send in your suggestions/recommendations for the following and more:
 - **You have a data set that you will want me to visualise in Power BI, this is free as long as you'd allow me put the dashboard out for Public use.**
 - You have a question on how I built a feature on any of the dashboards
 
-You can send in your suggestions/recommendations by either raising an issue on this repo with your recommendation or you send me an email [my email](atoyebi280@gmail.com)
+You can send in your suggestions/recommendations by either raising an issue on this repo with your recommendation or you send me an email (atoyebi280@gmail.com).
 
 ------------------------------------------------
 
-# _More Reports will be added in due time_
+## _More Reports will be added in due time_
 
-Thank you for Visiting!
-![Two fingers up](https://cdn5.vectorstock.com/i/1000x1000/20/99/hand-with-two-fingers-up-vector-21162099.jpg)
+# Thank you for Visiting!
+
