@@ -16,5 +16,7 @@ _None for now except client reports_
 
 - Global Covid-19 visualiser
 
+------------------------------------------------
+
 # _More Reports will be added in due time_
 
