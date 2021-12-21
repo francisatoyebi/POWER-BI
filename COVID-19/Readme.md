@@ -10,7 +10,7 @@ Corona virus has been with us for some time now and it seem more like it will st
 * Power BI for data cleaning, modelling, creating relationships and report
 
 ## Data Source
-The data is being pulled from the John Hopkins University repository on [Covid 19]() cases.
+The data is being pulled from the John Hopkins University repository on [Covid 19]('https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series) cases.
 
 ## What I did?
 
