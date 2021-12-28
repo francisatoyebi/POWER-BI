@@ -14,7 +14,7 @@ _None for now except client reports_
 ## Report in the Pipeline
 **Below is a list of Power BI reports I am planning to/currently working on:**
 
-- [Global Covid-19 visualiser](https://github.com/francisatoyebi/POWER-BI/blob/main/COVID-19)
+- [Global Covid-19 Tracker](https://github.com/francisatoyebi/POWER-BI/blob/main/COVID-19)
 
 ------------------------------------------------
 
