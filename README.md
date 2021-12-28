@@ -14,7 +14,7 @@ A simple repository to store and showcase Power BI dashboards.
 ## Report in the Pipeline
 **Below is a list of Power BI reports I am planning to/currently working on:**
 
-- [Currency Changer]()
+- [Currency Converter]()
 
 ------------------------------------------------
 
