@@ -19,7 +19,7 @@ Basically, I pulled data from JHU repo using python so I can get the data flowin
 ## My Procedures
 Basically, I will be discussing my thought process and work flow regarding this dashboard. 
 
-<u> **Data Ingestion </u>
+__Data Ingestion__
 Initially, I decided to Fork the repository then 
 
 ## Discovery
