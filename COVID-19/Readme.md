@@ -78,4 +78,9 @@ back to the problem of the data not updating, I realised that it is because when
 Well, I didn't encounter much challenges while building the report as it just flowed like water from a pipe through my fingers.
 
 ## Conclusion
-Well, I have been following this trend for a while now using my initial dashboard _built with Pyton and although many people believe that COVID is over and all, I can tell you that Covid is still much out there and with us, please let us follow all the guidelines 
+Well, I have been following this trend for a while now using my [initial dashboard built with Python](https://github.com/francisatoyebi/corona-bokeh) and although many people believe that Covid is over while some believe they are immune against it and others with several myths and beliefs, from this analysis, **I can tell you that Covid is still much out there and with us, please let us follow all the guidelines outlined by the [WHO](https://www.who.int/health-topics/coronavirus#tab=tab_1) and our various local agencies depending on your country/state/province.**
+
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fstay-safe&psig=AOvVaw2LeZpuI4RVzOWwJOLRFhi7&ust=1640968336738000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMC62M35i_UCFQAAAAAdAAAAABAD" alt="covid image" width="50%"/>
+
+![staysafe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fstay-safe&psig=AOvVaw2LeZpuI4RVzOWwJOLRFhi7&ust=1640968336738000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMC62M35i_UCFQAAAAAdAAAAABAD)
