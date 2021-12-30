@@ -19,12 +19,9 @@ Basically, I pulled data from JHU repo using python so I can get the data flowin
 ## My Procedures
 Basically, I will be discussing my thought process and work flow regarding this dashboard. 
 
-__Data Ingestion__
+1. Data Ingestion
 Initially, I decided to Fork the repository then 
 
 ## Discovery
 
 ## Conclusion
-
-
-<iframe title="covid report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmYwODRlYTgtZDNjNi00OTZlLThkYWEtMmIxM2MwOTRkYTBhIiwidCI6IjRhNTdmMTU3LTc1ZmYtNGIzMC1hZmEwLTJlMTI5MTkzNzY5MyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
