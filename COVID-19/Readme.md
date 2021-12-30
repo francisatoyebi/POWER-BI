@@ -22,8 +22,45 @@ Basically, I will be discussing my thought process and work flow regarding this 
 1. Data Ingestion
 Initially, I decided to download the repository into my local machine then pull the csv file which contain the data into Power BI and it was very easy to detect the flaw in that procedure as I will need to be downloading the data on a daily basis for the dasboard to be updated. Well, I eventually decided to try this out for my first time, I decided to scrape the data off JHU repository using Python and I did that using the code below:
 ``` Python:
-import padas as pd
+#Importing necessary library
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
 
+#Url to the John Hopkins DataSet for confirmed cases
+url1 = 'https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
+
+#Url to the John Hopkins DataSet for death cases
+url2 = 'https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
+
+#Url to the John Hopkins DataSet for recovered cases
+url3 = 'https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv'
+
+#Using the get  request to get the HTML code for the site
+data1 =requests.get(url1)
+
+data2 =requests.get(url2)
+
+data3 =requests.get(url3)
+
+#Formatting the HTML using Beautiful Soup
+soupcon = BeautifulSoup(data1.content,'html.parser')
+soupdeath = BeautifulSoup(data2.content,'html.parser')
+souprec = BeautifulSoup(data3.content,'html.parser')
+
+def scraper(scrape):
+    '''A function meant to scrape data from the JHU repository'''
+    covid = scrape.find_all('table', class_ = ["highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file"])[0]
+    data = []
+    for row in covid.find_all('tr'):
+        data.append([val.text for val in row.find_all('td')][1])
+    data = pd.DataFrame(data)
+    return data
+
+#Applying the function to scrape data from JHU repository
+confirmed_cases = scraper(soupcon)
+death_cases = scraper(soupdeath)
+recovered_cases = scraper(souprec)
 ```
 
 ## Discovery
