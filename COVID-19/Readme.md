@@ -21,7 +21,7 @@ Basically, I will be discussing my thought process and work flow regarding this 
 
 1. Data Ingestion
 Initially, I decided to download the repository into my local machine then pull the csv file which contain the data into Power BI and it was very easy to detect the flaw in that procedure as I will need to be downloading the data on a daily basis for the dasboard to be updated. Well, I eventually decided to try this out for my first time, I decided to scrape the data off JHU repository using Python and I did that using the code below:
-``` Python:
+``` Python
 #Importing necessary library
 import requests
 from bs4 import BeautifulSoup
