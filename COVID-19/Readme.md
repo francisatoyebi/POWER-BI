@@ -1,17 +1,18 @@
 # COVID-19 Dashboard
 
-_...the most beautiful part of this dashboard/report for me is that the data was ingested into Power BI using PYTHON..._
+_...the most beautiful part of this dashboard/report for me is that the data was ingested into Power BI using **PYTHON**..._
 <p align="center">
 <img src="https://raw.githubusercontent.com/francisatoyebi/POWER-BI/main/COVID-19/Coronavirus_Covid-19.png" alt="covid image" width="50%"/>
 </p>
-Coronavirus has been with us for some time now and it seems more like it will still be here for a very long time although the advancement in research and medicine has reduced the amount of fatality that occurs as a result of this virus, it is still worthy to say that the virus is still out there, everyone should please get vaccinated and follow all necessary safety measures put in place. I first created a [personal Global cases tracking dashboard](https://github.com/francisatoyebi/corona-bokeh) in May 2020 when the virus had us all in our homes, we were all afraid to go out and we missed our loved ones a lot. 
+
+Coronavirus has been with us for some time now and it seems more like it will still be here for a very long time although the advancement in research and medicine has reduced the amount of fatality that occurs as a result of this virus, it is still worthy to say that the virus is still out there, everyone should please get vaccinated and follow all necessary safety measures put in place. I first created a [Personal Global cases tracking dashboard](https://github.com/francisatoyebi/corona-bokeh) in May 2020 when the virus had us all in our homes, we were all afraid to go out and we missed our loved ones a lot.
 
 ## Tools Used
-* Python (Request, BeautifulSoup and Pandas) - Used for scraping data from JHU Github repository and ingesting the data into Power BI
+* Python (Libraries: Request, BeautifulSoup and Pandas) - Used for scraping data from JHU Github repository and ingesting the data into Power BI
 * Power BI for data cleaning, modelling and report building
 
 ## Data Source
-The data is being pulled from the [John Hopkins University repository on Covid 19]('https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series) cases.
+The data is being pulled from the [John Hopkins University repository on Covid 19](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series) cases.
 
 ## What you will find here
 I pulled data from the JHU repository using python so I can get the data flowing into the dashboard once the report refreshes.
@@ -76,7 +77,7 @@ back to the problem of the data not updating, I realised that it is because when
 
 ### 3. Building the Report
 
-Well, I didn't encounter many challenges while building the report as it just flowed like water from a pipe through my fingers.
+Well, I didn't encounter many challenges while building the report as it just flowed like water from a pipe through my fingers. You can view and interact with the dashboard [here](https://bit.ly/32GNLTj)
 
 ## Conclusion
 Well, I have been following this trend for a while now using my [initial dashboard built with Python](https://github.com/francisatoyebi/corona-bokeh), though many people believe that Covid is over while some believe they are immune against it and others with several myths and beliefs, but looking at the data and from my analysis, **I can tell you that Covid is still much out there**. Only on the 28th of December 2021 over 1.3million cases were reported and on the 29th of December 2021, over 1.7million cases were reported globally, **please let us follow all the guidelines outlined by the [WHO](https://www.who.int/health-topics/coronavirus#tab=tab_1) and our various local agencies depending on your country/state/province.**
@@ -86,3 +87,5 @@ Well, I have been following this trend for a while now using my [initial dashboa
 <p align="center">
 <img src="https://media.istockphoto.com/photos/text-on-wooden-cubes-green-plant-in-black-pot-on-a-wooden-background-picture-id1221480881?k=20&m=1221480881&s=612x612&w=0&h=zq8znyOmqRI8w-SeN2jLa96sJH2VTofsmnLUqyZ3F84=" alt="Stay Safe" width="50%"/>
 </p>
+
+## [Click here to view/interact with the dashboard](https://bit.ly/32GNLTj)
