@@ -11,7 +11,7 @@ Coronavirus has been with us for some time now and it seems more like it will st
 * Power BI for data cleaning, modelling and report building
 
 ## Data Source
-The data is being pulled from the [John Hopkins University repository on Covid 19]('https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series) cases.
+The data is being pulled from the [John Hopkins University repository on Covid 19](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series) cases.
 
 ## What you will find here
 I pulled data from the JHU repository using python so I can get the data flowing into the dashboard once the report refreshes.
