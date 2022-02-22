@@ -10,8 +10,7 @@ The raw links are as below
 - [Global Death Cases](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv)
 
 **You can go through the content below this point to understand how I imported the data earlier using webscraping**
-
-# --------------------------------------------------------------
+# 
 
 Please Note: you can find the old dashboard file [here](https://github.com/francisatoyebi/POWER-BI/blob/main/COVID-19/Old_COVID%20Dashboard.pbix)
 
