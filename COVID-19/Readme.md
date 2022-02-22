@@ -11,7 +11,9 @@ The raw links are as below
 
 **You can go through the content below this point to understand how I imported the data earlier using webscraping**
 
-Please Note: you can find the old dashboard file [here]()
+# --------------------------------------------------------------
+
+Please Note: you can find the old dashboard file [here](https://github.com/francisatoyebi/POWER-BI/blob/main/COVID-19/Old_COVID%20Dashboard.pbix)
 
 _...the most beautiful part of this dashboard/report for me is that the data was ingested into Power BI using **PYTHON**..._
 <p align="center">
