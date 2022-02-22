@@ -2,6 +2,16 @@
 
 ### There are two version of this project at the moment and the major difference between them is the way the data was ingested.
 
+The first which is the one currently live on the [Dashboard](https://bit.ly/32GNLTj). In this version of the dashboard, the data was ingested using a link, this was done because the repository on GitHub got so big and the data cannot be scraped as it doesn't display in the repo's web page, so instead, I leveraged on the raw file link which just returns a csv file and makes the ingestion more easier.
+
+The raw links are as below
+- [Global Confirmed Cases](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
+- [Global Recovered Cases](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv)
+- [Global Death Cases](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv)
+
+**You can go through the content below this point to understand how I imported the data earlier using webscraping**
+
+Please Note: you can find the old dashboard file [here]()
 
 _...the most beautiful part of this dashboard/report for me is that the data was ingested into Power BI using **PYTHON**..._
 <p align="center">
