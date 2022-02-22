@@ -1,5 +1,8 @@
 # COVID-19 Dashboard
 
+### There are two version of this project at the moment and the major difference between them is the way the data was ingested.
+
+
 _...the most beautiful part of this dashboard/report for me is that the data was ingested into Power BI using **PYTHON**..._
 <p align="center">
 <img src="https://raw.githubusercontent.com/francisatoyebi/POWER-BI/main/COVID-19/Coronavirus_Covid-19.png" alt="covid image" width="50%"/>
