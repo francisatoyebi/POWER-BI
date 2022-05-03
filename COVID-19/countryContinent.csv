@@ -7,6 +7,7 @@ American Samoa,Australia,Polynesia
 Andorra,Europe,Southern Europe
 Angola,Africa,Middle Africa
 Anguilla,Americas,Caribbean
+Antarctica,Antarctica,Antarctica
 Antigua and Barbuda,Americas,Caribbean
 Argentina,Americas,South America
 Armenia,Asia,Western Asia
@@ -32,11 +33,12 @@ Brazil,Americas,South America
 Brunei,Asia,South-Eastern Asia
 Bulgaria,Europe,Eastern Europe
 Burkina Faso,Africa,Western Africa
+Burma,Asia,South-Eastern Asia
 Burundi,Africa,Eastern Africa
+Cabo Verde,Africa,Western Africa
 Cambodia,Asia,South-Eastern Asia
 Cameroon,Africa,Middle Africa
 Canada,Americas,Northern America
-Cabo Verde,Africa,Western Africa
 Cayman Islands,Americas,Caribbean
 Central African Republic,Africa,Middle Africa
 Chad,Africa,Middle Africa
@@ -64,6 +66,7 @@ El Salvador,Americas,Central America
 Equatorial Guinea,Africa,Middle Africa
 Eritrea,Africa,Eastern Africa
 Estonia,Europe,Northern Europe
+Eswatini,Africa,Southern Africa
 Ethiopia,Africa,Eastern Africa
 Falkland Islands (Malvinas),Americas,South America
 Faroe Islands,Europe,Northern Europe
@@ -109,8 +112,9 @@ Jordan,Asia,Western Asia
 Kazakhstan,Asia,Central Asia
 Kenya,Africa,Eastern Africa
 Kiribati,Australia,Micronesia
-"Korea, South",Asia,Eastern Asia
 Korea (Republic of),Asia,Eastern Asia
+"Korea, South",Asia,Eastern Asia
+Kosovo,Europe,Southern Europe
 Kuwait,Asia,Western Asia
 Kyrgyzstan,Asia,Central Asia
 Laos,Asia,South-Eastern Asia
@@ -123,7 +127,6 @@ Liechtenstein,Europe,Western Europe
 Lithuania,Europe,Northern Europe
 Luxembourg,Europe,Western Europe
 Macao,Asia,Eastern Asia
-North Macedonia,Europe,Southern Europe
 Madagascar,Africa,Eastern Africa
 Malawi,Africa,Eastern Africa
 Malaysia,Asia,South-Eastern Asia
@@ -144,7 +147,6 @@ Montenegro,Europe,Southern Europe
 Montserrat,Americas,Caribbean
 Morocco,Africa,Northern Africa
 Mozambique,Africa,Eastern Africa
-Burma,Asia,South-Eastern Asia
 Namibia,Africa,Southern Africa
 Nauru,Australia,Micronesia
 Nepal,Asia,Southern Asia
@@ -156,6 +158,7 @@ Niger,Africa,Western Africa
 Nigeria,Africa,Western Africa
 Niue,Australia,Polynesia
 Norfolk Island,Australia,Australia and New Zealand
+North Macedonia,Europe,Southern Europe
 Northern Mariana Islands,Australia,Micronesia
 Norway,Europe,Northern Europe
 Oman,Asia,Western Asia
@@ -204,7 +207,6 @@ Sri Lanka,Asia,Southern Asia
 Sudan,Africa,Northern Africa
 Suriname,Americas,South America
 Svalbard and Jan Mayen,Europe,Northern Europe
-Eswatini,Africa,Southern Africa
 Sweden,Europe,Northern Europe
 Switzerland,Europe,Western Europe
 Syria,Asia,Western Asia
@@ -226,8 +228,8 @@ Uganda,Africa,Eastern Africa
 Ukraine,Europe,Eastern Europe
 United Arab Emirates,Asia,Western Asia
 United Kingdom,Europe,Northern Europe
-US,Americas,Northern America
 Uruguay,Americas,South America
+US,Americas,Northern America
 Uzbekistan,Asia,Central Asia
 Vanuatu,Australia,Melanesia
 Venezuela,Americas,South America
@@ -235,9 +237,8 @@ Vietnam,Asia,South-Eastern Asia
 Virgin Islands (British),Americas,Caribbean
 Virgin Islands (U.S.),Americas,Caribbean
 Wallis and Futuna,Australia,Polynesia
+West Bank and Gaza,Africa,Northern Africa
 Western Sahara,Africa,Northern Africa
 Yemen,Asia,Western Asia
 Zambia,Africa,Eastern Africa
 Zimbabwe,Africa,Eastern Africa
-Kosovo,Europe,Southern Europe
-West Bank and Gaza,Africa,Northern Africa
